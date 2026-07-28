@@ -1,0 +1,19 @@
+{
+  "week": "Week 1",
+  "research_question": "How does experimental probability compare with theoretical probability as the number of trials increases?",
+  "targets": [],
+  "predictors": [],
+  "choice_mode": "Use the instructor's exact variables",
+  "class_example": "Would ten coin tosses always produce exactly five heads? Why or why not?",
+  "instructions": "Run the coin-toss simulator with small and large trial counts, compare the observed and theoretical probabilities, and explain the pattern.",
+  "required_outputs": [
+    "Experiment and sample space",
+    "Theoretical probability",
+    "Experimental probability",
+    "Number of trials",
+    "One plain-language conclusion"
+  ],
+  "duration": 60,
+  "dataset_name": "Built-in probability simulator",
+  "dataset_signature": ""
+}

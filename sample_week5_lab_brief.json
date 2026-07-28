@@ -1,0 +1,23 @@
+{
+  "week": "Week 5",
+  "research_question": "How well can humidity explain or predict particulate matter concentration?",
+  "targets": [
+    "pm25"
+  ],
+  "predictors": [
+    "humidity"
+  ],
+  "choice_mode": "Use the instructor's exact variables",
+  "class_example": "Before fitting the line, do you expect the slope to be positive or negative?",
+  "instructions": "Create the scatterplot, fit simple linear regression, interpret the slope and intercept, and report held-out prediction error.",
+  "required_outputs": [
+    "Model equation",
+    "Slope",
+    "Intercept",
+    "MAE or RMSE",
+    "R-squared",
+    "One limitation"
+  ],
+  "duration": 60,
+  "dataset_name": "Environment and Air Quality"
+}
